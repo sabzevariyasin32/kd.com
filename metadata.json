@@ -1,0 +1,6 @@
+{
+  "name": "KD | King Developer - وب‌سایت رسمی و نمونه‌کارها",
+  "description": "پرتفولیو رسمی برند KD (King Developer) - طراحی و توسعه وب‌سایت، وردپرس، پایتون و راهکارهای نرم‌افزاری کاربردی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
